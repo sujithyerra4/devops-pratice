@@ -6,7 +6,7 @@ read -s usernam
 echo "username enter is : $usernam"
 
 echo "please enter pass:"
-read -s usernam
+read -s username
 
-echo "username enter is : $usernam"
+echo "username enter is : $username"
 
